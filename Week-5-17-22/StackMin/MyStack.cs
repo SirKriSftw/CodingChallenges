@@ -5,6 +5,7 @@ namespace StackMin
 {
     class MyStack
     {
+        
         // Actual stack of numbers
         Stack<int> myStack = new Stack<int>();
         // Stack to keep track of the minimum
